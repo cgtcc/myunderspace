@@ -1,4 +1,4 @@
-This is the them for [myunder.space](https://myunder.space)
+This is the theme for [myunder.space](https://myunder.space)
 
 You are free, and welcome to fork / copy / share.
 
